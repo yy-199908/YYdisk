@@ -1,0 +1,170 @@
+[2023-08-19 14:49:00]--[src_cgi/sharefiles_cgi.cpp:33]--[ERROR]open cfg.json failed!
+[2023-08-19 14:54:53]--[src_cgi/sharefiles_cgi.cpp:33]--[ERROR]open cfg.json failed!
+[2023-08-19 15:04:26]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:04:26]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:04:26]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:04:37]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:04:37]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:04:37]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"},{"user":"yy001","md5":"cdac21230b0518f64bdc02d45cf27f6a","time":"2023-08-19 14:57:09","filename":"display_bk.bmp","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTgZ8WAWBjxAAr8tvV7cng029.bmp","size":720054,"type":"bmp"}]}
+[2023-08-19 15:04:38]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:04:38]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:04:38]--[src_cgi/sharefiles_cgi.cpp:339]--[INFO]{"code":"000","files":[{"filename":"go.png","pv":1},{"filename":"display_bk.bmp","pv":0},{"filename":"login_close.png","pv":0}]}
+[2023-08-19 15:04:41]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:04:41]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:04:41]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"},{"user":"yy001","md5":"cdac21230b0518f64bdc02d45cf27f6a","time":"2023-08-19 14:57:09","filename":"display_bk.bmp","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTgZ8WAWBjxAAr8tvV7cng029.bmp","size":720054,"type":"bmp"}]}
+[2023-08-19 15:04:43]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:04:43]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:04:44]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"},{"user":"yy001","md5":"cdac21230b0518f64bdc02d45cf27f6a","time":"2023-08-19 14:57:09","filename":"display_bk.bmp","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTgZ8WAWBjxAAr8tvV7cng029.bmp","size":720054,"type":"bmp"}]}
+[2023-08-19 15:04:52]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:04:52]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:04:52]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"},{"user":"yy001","md5":"cdac21230b0518f64bdc02d45cf27f6a","time":"2023-08-19 14:57:09","filename":"display_bk.bmp","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTgZ8WAWBjxAAr8tvV7cng029.bmp","size":720054,"type":"bmp"}]}
+[2023-08-19 15:04:58]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:04:58]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:04:58]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"},{"user":"yy001","md5":"cdac21230b0518f64bdc02d45cf27f6a","time":"2023-08-19 14:57:09","filename":"display_bk.bmp","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTgZ8WAWBjxAAr8tvV7cng029.bmp","size":720054,"type":"bmp"}]}
+[2023-08-19 15:05:03]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:05:03]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:05:03]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"},{"user":"yy001","md5":"cdac21230b0518f64bdc02d45cf27f6a","time":"2023-08-19 14:57:09","filename":"display_bk.bmp","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTgZ8WAWBjxAAr8tvV7cng029.bmp","size":720054,"type":"bmp"}]}
+[2023-08-19 15:05:07]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:05:07]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:05:08]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:05:12]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2023-08-19 15:05:12]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 3
+[2023-08-19 15:05:12]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"},{"user":"yy001","md5":"0cc78b560045ae708ba0322f7b09fa3f","time":"2023-08-19 15:01:53","filename":"logo.ico","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTgaOGASGPaAAA2nuLYQcY861.ico","size":13982,"type":"ico"}]}
+[2023-08-19 15:05:17]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:05:17]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:05:17]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:05:19]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:05:19]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:05:19]--[src_cgi/sharefiles_cgi.cpp:339]--[INFO]{"code":"000","files":[{"filename":"go.png","pv":1},{"filename":"login_close.png","pv":0}]}
+[2023-08-19 15:05:20]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:05:20]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:05:20]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:06:04]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:06:04]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:06:04]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:06:13]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:06:13]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:06:13]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:08:30]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:08:30]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:08:30]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:08:31]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:08:31]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:08:31]--[src_cgi/sharefiles_cgi.cpp:339]--[INFO]{"code":"000","files":[{"filename":"go.png","pv":1},{"filename":"login_close.png","pv":0}]}
+[2023-08-19 15:09:07]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:09:07]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:09:07]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:09:08]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:09:08]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:09:08]--[src_cgi/sharefiles_cgi.cpp:339]--[INFO]{"code":"000","files":[{"filename":"go.png","pv":1},{"filename":"login_close.png","pv":0}]}
+[2023-08-19 15:09:09]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:09:09]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:09:09]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:09:15]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:09:15]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:09:15]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:09:20]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:09:20]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:09:20]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:09:38]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:09:38]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:09:38]--[src_cgi/sharefiles_cgi.cpp:233]--[INFO] {"code":"000","files":[{"user":"yy002","md5":"41430859813b0d4ae4332c7eae32798a","time":"2023-08-18 20:55:45","filename":"go.png","pv":1,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfalGACjJAAARJG--i3Rs143.png","size":280859,"type":"png"},{"user":"yy002","md5":"40b79ba9ca707ac80ddcba594807160d","time":"2023-08-18 22:00:13","filename":"login_close.png","pv":0,"url":"http://192.168.234.100/group2/M00/00/00/wKjqZGTfeW2AXePiAACPKBzBJOE876.png","size":36648,"type":"png"}]}
+[2023-08-19 15:10:22]--[src_cgi/sharefiles_cgi.cpp:391]--[info]buf = {
+    "count": 2,
+    "start": 0
+}
+
+[2023-08-19 15:10:22]--[src_cgi/sharefiles_cgi.cpp:398]--[info]start = 0, count = 2
+[2023-08-19 15:10:22]--[src_cgi/sharefiles_cgi.cpp:339]--[INFO]{"code":"000","files":[{"filename":"go.png","pv":1},{"filename":"login_close.png","pv":0}]}

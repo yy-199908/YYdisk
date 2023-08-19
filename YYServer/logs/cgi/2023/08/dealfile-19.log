@@ -1,0 +1,8 @@
+[2023-08-19 14:49:00]--[src_cgi/dealfile_cgi.cpp:72]--[ERROR]open cfg.json failed!
+[2023-08-19 14:54:53]--[src_cgi/dealfile_cgi.cpp:72]--[ERROR]open cfg.json failed!
+[2023-08-19 15:04:34]--[src_cgi/dealfile_cgi.cpp:613]--[TEST] yy001,cdac21230b0518f64bdc02d45cf27f6a,display_bk.bmp,share
+[2023-08-19 15:04:56]--[src_cgi/dealfile_cgi.cpp:613]--[TEST] yy001,41430859813b0d4ae4332c7eae32798a,go.png,del
+[2023-08-19 15:05:11]--[src_cgi/dealfile_cgi.cpp:613]--[TEST] yy001,0cc78b560045ae708ba0322f7b09fa3f,logo.ico,share
+[2023-08-19 15:05:14]--[src_cgi/dealfile_cgi.cpp:613]--[TEST] yy001,0cc78b560045ae708ba0322f7b09fa3f,logo.ico,del
+[2023-08-19 15:09:18]--[src_cgi/dealfile_cgi.cpp:613]--[TEST] yy005,40b79ba9ca707ac80ddcba594807160d,login_close.png,del
+[2023-08-19 15:10:32]--[src_cgi/dealfile_cgi.cpp:613]--[TEST] yy005,41430859813b0d4ae4332c7eae32798a,go.png,pv

@@ -1,0 +1,58 @@
+[2023-08-19 14:49:00]--[src_cgi/dealsharefile_cgi.cpp:37]--[ERROR]open cfg.json failed!
+[2023-08-19 14:54:53]--[src_cgi/dealsharefile_cgi.cpp:37]--[ERROR]open cfg.json failed!
+[2023-08-19 15:04:46]--[src_cgi/dealsharefile_cgi.cpp:431]--buf = {
+    "filename": "go.png",
+    "md5": "41430859813b0d4ae4332c7eae32798a",
+    "user": "yy001"
+}
+
+[2023-08-19 15:04:46]--[src_cgi/dealsharefile_cgi.cpp:433]--[TEST] ÄΩò˛,êd¡VU,¿Ωò˛
+[2023-08-19 15:05:04]--[src_cgi/dealsharefile_cgi.cpp:431]--buf = {
+    "filename": "display_bk.bmp",
+    "md5": "cdac21230b0518f64bdc02d45cf27f6a",
+    "user": "yy001"
+}
+
+[2023-08-19 15:05:04]--[src_cgi/dealsharefile_cgi.cpp:433]--[TEST] ÄΩò˛,P®¡VU,¿Ωò˛
+[2023-08-19 15:05:04]--[src_cgi/dealsharefile_cgi.cpp:212]--[TEST]cancel_share_file
+[2023-08-19 15:06:06]--[src_cgi/dealsharefile_cgi.cpp:431]--buf = {
+    "filename": "login_close.png",
+    "md5": "40b79ba9ca707ac80ddcba594807160d",
+    "user": "yy004"
+}
+
+[2023-08-19 15:06:06]--[src_cgi/dealsharefile_cgi.cpp:433]--[TEST] ÄΩò˛,0a¡VU,¿Ωò˛
+[2023-08-19 15:06:07]--[src_cgi/dealsharefile_cgi.cpp:370]--[ERROR] mysql query failed!  insert into user_file_count (user, count) values('p
+Ωò˛', 1),Incorrect string value: '\xBD\x98\xFE' for column 'user' at row 1
+[2023-08-19 15:06:14]--[src_cgi/dealsharefile_cgi.cpp:431]--buf = {
+    "filename": "go.png",
+    "md5": "41430859813b0d4ae4332c7eae32798a",
+    "user": "yy004"
+}
+
+[2023-08-19 15:06:14]--[src_cgi/dealsharefile_cgi.cpp:433]--[TEST] ÄΩò˛,p\
+¡VU,¿Ωò˛
+[2023-08-19 15:06:14]--[src_cgi/dealsharefile_cgi.cpp:370]--[ERROR] mysql query failed!  insert into user_file_count (user, count) values('p
+Ωò˛', 1),Incorrect string value: '\xBD\x98\xFE' for column 'user' at row 1
+[2023-08-19 15:08:24]--[src_cgi/dealsharefile_cgi.cpp:431]--buf = {
+    "filename": "login_close.png",
+    "md5": "40b79ba9ca707ac80ddcba594807160d",
+    "user": "yy004"
+}
+
+[2023-08-19 15:08:24]--[src_cgi/dealsharefile_cgi.cpp:433]--[TEST] ph•Ï˛,êPZU,∞h•Ï˛
+[2023-08-19 15:08:24]--[src_cgi/dealsharefile_cgi.cpp:315]--[ERROR]user have this file!
+[2023-08-19 15:09:11]--[src_cgi/dealsharefile_cgi.cpp:431]--buf = {
+    "filename": "login_close.png",
+    "md5": "40b79ba9ca707ac80ddcba594807160d",
+    "user": "yy005"
+}
+
+[2023-08-19 15:09:11]--[src_cgi/dealsharefile_cgi.cpp:433]--[TEST] ph•Ï˛,PXPZU,∞h•Ï˛
+[2023-08-19 15:09:21]--[src_cgi/dealsharefile_cgi.cpp:431]--buf = {
+    "filename": "go.png",
+    "md5": "41430859813b0d4ae4332c7eae32798a",
+    "user": "yy005"
+}
+
+[2023-08-19 15:09:21]--[src_cgi/dealsharefile_cgi.cpp:433]--[TEST] ph•Ï˛,–OPZU,∞h•Ï˛

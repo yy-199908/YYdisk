@@ -1,0 +1,5 @@
+[2023-08-19 14:57:09]--[src_cgi/upload_cgi.cpp:502]--[test]recv_save_file
+[2023-08-19 14:57:09]--[src_cgi/upload_cgi.cpp:508]--[INFO]yy001 upload display_bk.bmp to local! size:720054, md5:cdac21230b0518f64bdc02d45cf27f6a
+[2023-08-19 14:57:09]--[src_cgi/upload_cgi.cpp:516]--[INFO]yy001 upload display_bk.bmp to local! size:720054, md5:cdac21230b0518f64bdc02d45cf27f6a, fileid:group2/M00/00/00/wKjqZGTgZ8WAWBjxAAr8tvV7cng029.bmp[2023-08-19 15:01:53]--[src_cgi/upload_cgi.cpp:502]--[test]recv_save_file
+[2023-08-19 15:01:53]--[src_cgi/upload_cgi.cpp:508]--[INFO]yy001 upload logo.ico to local! size:13982, md5:0cc78b560045ae708ba0322f7b09fa3f
+[2023-08-19 15:01:53]--[src_cgi/upload_cgi.cpp:516]--[INFO]yy001 upload logo.ico to local! size:13982, md5:0cc78b560045ae708ba0322f7b09fa3f, fileid:group2/M00/00/00/wKjqZGTgaOGASGPaAAA2nuLYQcY861.ico
